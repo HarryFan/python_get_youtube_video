@@ -1,5 +1,7 @@
-# python_get_youtube_video
-教學用 用python抓youtube、vimeo影片
+python\_get\_youtube_video
+==========================
+
+教學用 用python抓YouTube、Vimeo影片
 
 技術文檔
 ----
@@ -11,14 +13,14 @@
 #### 使用方法
 
 ```
-python3 download_youtube.py
+python3 download_youtube.py
 ```
 
 #### 輸入
 
 1.  YouTube影片網址
     
-2.  儲存路徑（預設為當前目錄）
+2.  儲存路徑（預設為當前目錄/video/youtube）
     
 
 #### 輸出
@@ -32,14 +34,14 @@ python3 download_youtube.py
 #### 使用方法
 
 ```
-python3 download_vimeo_alternative.py
+python3 download\_vimeo\_alternative.py
 ```
 
 #### 輸入
 
 1.  Vimeo影片網址
     
-2.  儲存路徑（預設為當前目錄）
+2.  儲存路徑（預設為當前目錄/video/vimeo）
     
 
 #### 輸出
