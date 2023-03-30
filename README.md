@@ -34,7 +34,7 @@ python3 download_youtube.py
 #### 使用方法
 
 ```
-python3 download\_vimeo\_alternative.py
+python3 download_vimeo_alternative.py
 ```
 
 #### 輸入
