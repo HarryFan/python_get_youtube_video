@@ -17,6 +17,6 @@ def download_youtube_video(video_url, output_path='.'):
         print(f'下載時發生錯誤: {e}')
 
 if __name__ == '__main__':
-    video_url = input('請輸入 YouTube 影片網址: ')
-    output_path = input('請輸入儲存路徑（預設為當前目錄）: ') or '.'
-    download_youtube_video(video_url, output_path)
+    video_url = input('請輸入 YouTube 影片網址: ')  # 獲取用戶輸入的YouTube影片網址
+    output_path = input('請輸入儲存路徑（預設為當前目錄）: ') or '.'  # 獲取用戶輸入的儲存路徑，如果未輸入則使用當前目錄
+    download_youtube_video(video_url, output_path)  # 調用函數下載影片

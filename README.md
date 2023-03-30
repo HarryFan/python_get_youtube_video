@@ -11,7 +11,7 @@
 #### 使用方法
 
 ```
-python3 download_youtube.py
+python3 download_youtube.py
 ```
 
 #### 輸入
