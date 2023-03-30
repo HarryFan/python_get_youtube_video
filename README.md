@@ -27,12 +27,12 @@ python3 download_youtube.py
 
 ### 2\. download\_vimeo\_alternative.py
 
-`download\_vimeo\_alternative.py` 是一個用於下載Vimeo影片的Python腳本。它使用youtube-dl作為後端，讓您可以輕鬆下載Vimeo影片。
+`download_vimeo_alternative.py` 是一個用於下載Vimeo影片的Python腳本。它使用youtube-dl作為後端，讓您可以輕鬆下載Vimeo影片。
 
 #### 使用方法
 
 ```
-python3 download\_vimeo\_alternative.py
+python3 download_vimeo_alternative.py
 ```
 
 #### 輸入
